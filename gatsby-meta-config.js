@@ -20,8 +20,8 @@ const metaConfig = {
   //TODO: Change the values below according to your project
   title: "blog-stream",
   description: "Blog that uploads useful contents.",
-  author: "mingi3314",
-  siteUrl: "https://blog-stream.netlify.app",
+  author: "sawaca96",
+  siteUrl: "https://stock-trend-follower.netlify.app",
   lang: "en-US",
   utterances: "",
   links: {},
