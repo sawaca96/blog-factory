@@ -18,8 +18,8 @@
 /** @type {MetaConfig} */
 const metaConfig = {
   //TODO: Change the values below according to your project
-  title: "blog-stream",
-  description: "Blog that uploads useful contents.",
+  title: "stock-trend-follower",
+  description: "Provides a variety of stock-related information.",
   author: "sawaca96",
   siteUrl: "https://stock-trend-follower.netlify.app",
   lang: "en-US",
